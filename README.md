@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.60.208
+IP 158.160.60.208
 
 Frontend https://asta.nomoredomains.rocks
 
