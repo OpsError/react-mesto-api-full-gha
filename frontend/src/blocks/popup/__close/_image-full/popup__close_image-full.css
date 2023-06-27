@@ -1,0 +1,13 @@
+.popup__close_image-full{
+    margin-top: -45px;
+    margin-right: -45px;
+    display: flex;
+    align-self: end;
+}
+
+@media screen and (max-width: 576px) {
+    .popup__close_image-full{
+        margin-top: -45px;
+        margin-right: 0;
+    }
+}

@@ -1,0 +1,14 @@
+.popup__input-error_active{
+    position: absolute;
+    margin-top: 32px;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.21;
+    color: #ff0000;
+}
+
+.popup__input-error_active:nth-of-type(even){
+    margin-top: 89px;
+}

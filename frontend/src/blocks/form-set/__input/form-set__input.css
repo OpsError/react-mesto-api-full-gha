@@ -1,0 +1,17 @@
+.form-set__input {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid white;
+    padding: 0 0 13px 0;
+    margin-bottom: 30px;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.21;
+    color: #CCCCCC;
+    outline: none;
+}
+
+.form-set__input:last-of-type {
+    margin-bottom: 0;
+}

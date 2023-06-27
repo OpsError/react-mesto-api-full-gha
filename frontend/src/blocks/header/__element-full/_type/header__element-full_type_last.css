@@ -1,0 +1,8 @@
+.header__element-full_type_last {
+    opacity: 1;
+    transition: opacity .5s;
+}
+
+.header__element-full_type_last:hover {
+    opacity: .8;
+}

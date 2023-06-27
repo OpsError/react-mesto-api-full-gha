@@ -1,0 +1,6 @@
+.element__card{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 20px 25px 20px;
+    background-color: white;
+}

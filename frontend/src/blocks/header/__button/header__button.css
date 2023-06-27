@@ -1,0 +1,15 @@
+.header__button {
+    display: none;
+}
+
+@media screen and (max-width: 880px) {
+    .header__button {
+        display: flex;
+        flex-direction: column;
+        background-color: transparent;
+        border: none;
+        padding: 0;
+        height: 21px;
+        width: 20px;
+    }
+}

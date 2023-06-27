@@ -1,0 +1,13 @@
+.header__element {
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.2;
+    text-decoration: none;
+    color: #fff;
+    margin-top: 18px;
+}
+
+.header__element:first-of-type {
+    margin-top: 0;
+}

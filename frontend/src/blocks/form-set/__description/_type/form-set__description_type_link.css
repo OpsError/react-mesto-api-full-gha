@@ -1,0 +1,10 @@
+.form-set__description_type_link {
+    text-decoration: none;
+    color: #FFFFFF;
+    opacity: 1;
+    transition: opacity .5s;
+}
+
+.form-set__description_type_link:hover {
+    opacity: .8;
+}

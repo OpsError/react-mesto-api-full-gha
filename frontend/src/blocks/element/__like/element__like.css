@@ -1,0 +1,14 @@
+.element__like{
+    background-color: white;
+    border: none;
+    padding: 0;
+    max-height: 18px;
+    align-self: flex-end;
+    opacity: 1;
+    transition: opacity .5s;
+    cursor: pointer;
+}
+
+.element__like:hover{
+    opacity: .5;
+}

@@ -1,0 +1,24 @@
+.profile__bio{
+    display: flex;
+    align-items: center;
+    max-width: 710px;
+}
+
+@media screen and (max-width: 576px) {
+    .profile__bio{
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 577px) and (max-width: 768px) {
+    .profile__bio{
+        max-width: 470px;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 870px) {
+    .profile__bio{
+        max-width: 670px;
+    }
+}
